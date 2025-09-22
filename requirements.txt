@@ -1,0 +1,3 @@
+# Jupytor notebook
+ipykernel
+pandas
