@@ -1,3 +1,4 @@
 # Jupytor notebook
 ipykernel
 pandas
+openpyxl
